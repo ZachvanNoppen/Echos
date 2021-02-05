@@ -9,3 +9,6 @@ I found it extremely difficult just to get simple functions up and working. On t
 The most challenging part was trying to build interactions that worked on mobile and desktop. I realized the framework doesn't necessarily have good ways to simply switch over functionality. Knowing the constraints of the framework now, it would have been better to design the interactions with object differently. I expected it to act more like the Bootstrap framework where simply changing a class or componenet would allow for perfect cross-over interaction.
 
 https://github.com/ZachvanNoppen/Echos
+
+
+Demo: https://youtu.be/lLOWQdptL4o 
